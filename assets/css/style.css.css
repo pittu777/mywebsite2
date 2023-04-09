@@ -139,7 +139,12 @@ nav ul li a:hover::after{
 .tab-contents.active-tab{
     display: block;
 }
-
+img {
+    display: block;
+    margin: 0 auto;
+    border: 10px solid black;
+    max-width: 200px;
+  }
 /* ----------services============ */
 #services{
     padding: 30px 0;
